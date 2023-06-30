@@ -1,4 +1,4 @@
-### Linearity of the system
+![3](https://github.com/morgan09mj/Linearity-of-the-system/assets/119484000/44c7675a-91d4-470d-9d48-d842eb1b7c30)### Linearity of the system
 Checks the linearity of the system
 
 ## Description
@@ -20,7 +20,14 @@ In the second cell, we execute the def function which is used to draw the shape.
 
 In the third cell, we specify the omega number. Next, we set n equal to 101 to display the corresponding discrete signal up to the number 101. We write the function 1x. For this, we write the formula of the function and place its variable (with a for loop) i from 0 to 101 in the formula and then convert the function, which is in the form of a list, into an array. We also write Y1 according to x1. Finally, we call the def function. We run it to display the changes.
 
+![3](https://github.com/morgan09mj/Linearity-of-the-system/assets/119484000/d17191e4-7a51-4ec8-a245-8b8f1a445ebc)
 
 In the next cells, only alpha and beta are added, and the scope of work does not change.
 
+![4](https://github.com/morgan09mj/Linearity-of-the-system/assets/119484000/f6e404e7-e254-4c76-a4fe-61b372f009fc)
 
+![5](https://github.com/morgan09mj/Linearity-of-the-system/assets/119484000/9a6ac6d7-df6c-40de-b67f-908d69b6352f)
+
+![6](https://github.com/morgan09mj/Linearity-of-the-system/assets/119484000/6df18615-2217-441d-abd2-7a73cd1a769e)
+
+![7](https://github.com/morgan09mj/Linearity-of-the-system/assets/119484000/fc91b03e-34fb-46ca-b127-9a0a4837926f)
