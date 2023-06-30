@@ -7,9 +7,11 @@ We are asked to first generate a signal with a specific input and then plot it. 
 ## Response :
 In the first cell, we add the required libraries and run them.
 
-
+![1](https://github.com/morgan09mj/Linearity-of-the-system/assets/119484000/e51bad5a-d8a0-4c19-8130-1d5e59be5c20)
 
 In the second cell, we execute the def function which is used to draw the shape.
+
+![2](https://github.com/morgan09mj/Linearity-of-the-system/assets/119484000/8db863e1-db1a-4bed-978f-393ed2445c77)
 
 
 
